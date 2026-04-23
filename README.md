@@ -213,6 +213,10 @@ pip install cryptography
 | **Salt Size** | 128-bit (Randomly generated per file) |
 | **Nonce/IV** | 96-bit (Unique per encryption) |
 
+# output file
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/562c936d-a1b6-4c10-b173-5efff798198e" />
+
+
 ## ⚠️ Important Disclaimer
 This tool uses professional-grade encryption without any backdoors. **If you lose your Master Password, the data within the `.vault` file cannot be recovered.**
 
